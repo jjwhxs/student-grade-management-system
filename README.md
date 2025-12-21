@@ -14,21 +14,29 @@
 
 ### 成果展示
 
-系统登录 输入图片说明
+系统登录
+<img width="1910" height="1045" alt="系统登录" src="https://github.com/user-attachments/assets/9da4147b-1e21-4277-9336-070e2d9812e5" />
 
-系统主页 输入图片说明
+系统主页
+<img width="1910" height="1045" alt="系统主页" src="https://github.com/user-attachments/assets/12956b15-01ea-48d1-9307-9ed1e3f95751" />
 
-课程表 输入图片说明
+课程表
+<img width="1910" height="1045" alt="课程表" src="https://github.com/user-attachments/assets/ab30ae5b-ad8e-48b9-8dd9-76127e014095" />
 
-成绩查询 输入图片说明
+成绩查询
+<img width="1910" height="1045" alt="成绩查询" src="https://github.com/user-attachments/assets/bf13f1e6-e6ec-4fe0-8758-0b37cd1686ad" />
 
-成绩详情 输入图片说明
+成绩详情
+<img width="1910" height="1045" alt="成绩详情" src="https://github.com/user-attachments/assets/bce3278c-9027-4c83-ad2e-2a04bbf3db84" />
 
-课程录入 输入图片说明
+课程录入
+<img width="1910" height="1045" alt="课程录入" src="https://github.com/user-attachments/assets/278fc3f7-8089-458d-9d37-b7d6961bf6dd" />
 
-用户管理->学生用户 输入图片说明
+用户管理->学生用户
+<img width="1910" height="1045" alt="用户管理-学生用户" src="https://github.com/user-attachments/assets/7a397612-cbf1-4bc6-9bf8-5c7a37703dde" />
 
-账号管理 输入图片说明
+账号管理
+<img width="1910" height="1045" alt="账号管理" src="https://github.com/user-attachments/assets/5e5898bb-b708-468c-a4c3-8d964d9cf78b" />
 
 ### 源码展示
 
@@ -104,11 +112,11 @@ public Map<String, Object> getUserTotal(@RequestParam Map<String, Object> condit
 
 3、目录结构展示
 
-输入图片说明
+<img width="704" height="177" alt="目录结构展示" src="https://github.com/user-attachments/assets/b525cfee-211f-4f69-a903-8dcbdfaf12b2" />
 
 4、项目结构展示
 
-输入图片说明
+<img width="1706" height="764" alt="项目结构展示" src="https://github.com/user-attachments/assets/10f405a2-8050-4d7c-8673-4a6b825a0e2a" />
 
 5、运行步骤
 
@@ -124,6 +132,6 @@ public Map<String, Object> getUserTotal(@RequestParam Map<String, Object> condit
 
 访问链接(在浏览器中手动输入下图中的地址)：
 
-输入图片说明
+<img width="1049" height="119" alt="链接" src="https://github.com/user-attachments/assets/cfe4ce39-c23c-4743-a06c-77a5c09e69f3" />
 
 若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
