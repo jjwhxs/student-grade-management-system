@@ -134,4 +134,4 @@ public Map<String, Object> getUserTotal(@RequestParam Map<String, Object> condit
 
 <img width="1049" height="119" alt="链接" src="https://github.com/user-attachments/assets/cfe4ce39-c23c-4743-a06c-77a5c09e69f3" />
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
