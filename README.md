@@ -130,8 +130,6 @@ public Map<String, Object> getUserTotal(@RequestParam Map<String, Object> condit
 
 ### 获取方式(可远程调试)
 
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1049" height="119" alt="链接" src="https://github.com/user-attachments/assets/cfe4ce39-c23c-4743-a06c-77a5c09e69f3" />
+访问链接：https://mbd.pub/o/bread/mbd-aJeYkp5p
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
